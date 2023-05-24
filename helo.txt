@@ -1,0 +1,3 @@
+added newly after staging
+
+changed again and not staged this time
